@@ -1,0 +1,14 @@
+.plane{
+    background-color: #ccc;
+    
+    height: 20rem;
+    margin-top: 4rem;
+}
+.planetext{
+    color: black;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+
+

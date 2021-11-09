@@ -6,6 +6,8 @@ import User from './Component/User';
 import Navbar from './Component/Navbar';
 import Subscrib from './Component/Subscrib'
 import Features from './Component/Features';
+import Plane  from './Component/plane'
+import PlaneCategories from './Component/PlaneCategories'
 
 
 function App() {
@@ -15,6 +17,8 @@ function App() {
       <Section/>
       <User/>
       <Features/>
+      <Plane/>
+      <PlaneCategories/>
       <Subscrib/>
      <Footer/>
     </div>
