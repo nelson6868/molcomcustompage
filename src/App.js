@@ -1,11 +1,18 @@
 
 import './App.css';
-import FormikForm from './formikForm';
+import Footer from './Component/Footer';
+import Section from './Component/Section';
+import User from './Component/User';
+import Navbar from './Component/Navbar';
+
 
 function App() {
   return (
     <div className="App">
-     <FormikForm/>
+      <Navbar/>
+      <Section/>
+      <User/>
+     <Footer/>
     </div>
   );
 }

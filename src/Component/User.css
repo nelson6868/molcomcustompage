@@ -1,0 +1,43 @@
+.column {
+    float: left;
+    width: 33.33%;
+  }
+  
+ 
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .column {
+    float: left;
+  }
+  
+  .left, .right {
+    width: 25%;
+  }
+  .circe{
+    height: 40px;
+    width: 40px;
+    background-color: rgb(240, 157, 219);
+    border-radius: 50%;
+  }
+  .wrapper{
+      display: flex;
+  }
+  .bg {
+    box-shadow: 5px 10px #fff;
+    width: 80%;
+    height: 5rem;
+
+  }
+  .middle {
+    width: 50%;
+  }
+
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+  }
