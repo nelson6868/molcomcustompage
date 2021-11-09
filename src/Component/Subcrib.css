@@ -1,0 +1,19 @@
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+ 
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .Subscrib{
+      background-color: #fff;
+       box-shadow: 5px 10px #fff;
+      width: 80%;
+      height: 7rem;
+      margin-top: 2rem;
+      box-shadow: 1px 0px 1px #fff;
+  }
