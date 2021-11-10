@@ -1,6 +1,8 @@
-.column {
+.column2 {
     float: left;
     width: 50%;
+    margin-top: 10rem;
+    text-align: justify;
   }
   
  
@@ -8,5 +10,22 @@
     content: "";
     display: table;
     clear: both;
+    margin-top: 2rem;
+  }
+
+
+  .triagle{
+      display: flex;
+      height: 2rem;
+      width: 2rem;
+      border-radius: 4px;
+      background-color: purple;
+  }
+  .tri{
+      display: flex;
+      width: 20rem;
+      margin-top: 2rem;
+      
+      text-align: center;
   }
   

@@ -6,7 +6,7 @@ import  Text from './text'
 
 function Section() {
     return (
-        <div className="container">
+        <div className="container my-5">
         <div class="row">
   <div class="column">
       <span className="textheading">We Are Everything We<br/>

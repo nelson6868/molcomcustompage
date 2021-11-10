@@ -9,7 +9,8 @@ function Plane() {
               choose Your Plane
 
             </span>
-            <p>Let choose the package that is best for you explore it hapily</p>
+            <p>Let choose the package that is best for you explore it happily and </p><br/>
+            <p>Carefully</p>
             
         </div>
     

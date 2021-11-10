@@ -8,7 +8,7 @@ function  Button (){
 
     return(
         <div>
-    <button className="button">Create an Account</button>
+    <button className="button">Get Started</button>
         </div>
     )
 }
